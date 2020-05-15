@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/babayaga9823/addport/issues"
   },
-  "homepage": "https://github.com/babayaga9823/addport#readme"
+  "homepage": "https://github.com/babayaga9823/addport#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
