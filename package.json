@@ -1,0 +1,19 @@
+{
+  "name": "babaport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babayaga9823/addport.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babayaga9823/addport/issues"
+  },
+  "homepage": "https://github.com/babayaga9823/addport#readme"
+}
